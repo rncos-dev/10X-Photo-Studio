@@ -11,71 +11,71 @@ import { Palette } from 'lucide-react'
 const useCases = [
   {
     id: 'image-generation',
-    title: 'Fashion',
+    title: 'AI - Powered Creatives',
     description: 'Create stunning visuals from text descriptions',
     image: '/1.png'
   },
   {
     id: 'style-transfer',
-    title: 'Marketing',
+    title: 'Cusotmization & Brand Alignment',
     description: 'Apply artistic styles to your existing images',
     image: '/2.png'
   },
   {
     id: 'layout-design',
-    title: 'Advertisement',
+    title: 'Platform Optimized Images',
     description: 'Generate complete layouts and compositions',
     image: '/4.png'
   },
   {
     id: 'product-photography',
-    title: 'Product Photography',
+    title: 'Dedicated Account Support',
     description: 'Create unique characters and avatars',
     image: '/6.png'
   },
-  {
-    id: 'pattern-creation',
-    title: 'Architecture',
-    description: 'Generate seamless patterns and textures',
-    image: '/7.png'
-  },
-  {
-    id: 'book-illustrations',
-    title: 'Interior Design',
-    description: 'Create captivating book covers and illustrations',
-    image: '/9.png'
-  },
-  {
-    id: 'fashion-design',
-    title: 'Graphic Design',
-    description: 'Design unique apparel and accessories',
-    image: '/7.png'
-  },
-  {
-    id: 'art-creation',
-    icon: Palette,
-    title: 'Concept Art',
-    description: 'Generate original artwork in various styles',
-    image: '/8.png',
-  },
-  {
-    id: 'game-asset',
-    title: 'Game Asset',
-    description: 'Design unique apparel and accessories',
-    image: '/7.png'
-  },
-  {
-    id: 'character-design',
-    title: 'Character Design',
-    description: 'Design unique apparel and accessories',
-    image: '/8.png'
-  },
-  {
-    id: 'inspiration',
-    title: 'Inspiration',
-    description: 'Design unique apparel and accessories',
-    image: '/10.png'
-  }
+  // {
+  //   id: 'pattern-creation',
+  //   title: 'Architecture',
+  //   description: 'Generate seamless patterns and textures',
+  //   image: '/7.png'
+  // },
+  // {
+  //   id: 'book-illustrations',
+  //   title: 'Interior Design',
+  //   description: 'Create captivating book covers and illustrations',
+  //   image: '/9.png'
+  // },
+  // {
+  //   id: 'fashion-design',
+  //   title: 'Graphic Design',
+  //   description: 'Design unique apparel and accessories',
+  //   image: '/7.png'
+  // },
+  // {
+  //   id: 'art-creation',
+  //   icon: Palette,
+  //   title: 'Concept Art',
+  //   description: 'Generate original artwork in various styles',
+  //   image: '/8.png',
+  // },
+  // {
+  //   id: 'game-asset',
+  //   title: 'Game Asset',
+  //   description: 'Design unique apparel and accessories',
+  //   image: '/7.png'
+  // },
+  // {
+  //   id: 'character-design',
+  //   title: 'Character Design',
+  //   description: 'Design unique apparel and accessories',
+  //   image: '/8.png'
+  // },
+  // {
+  //   id: 'inspiration',
+  //   title: 'Inspiration',
+  //   description: 'Design unique apparel and accessories',
+  //   image: '/10.png'
+  // }
 ]
 
 export default function UseCases() {
@@ -131,7 +131,7 @@ export default function UseCases() {
           className="text-center mb-12"
         >
           <h2 className="text-3xl md:text-6xl font-bold mb-4">
-            Use MarTec Today For
+            Use 10x Photo Studio Today For
           </h2>
           <p className="text-gray-400 text-lg max-w-2xl mx-auto">
             Explore the endless possibilities of AI-powered image generation across various creative domains
@@ -217,7 +217,7 @@ export default function UseCases() {
                               }}
                             />
                             {/* Smooth black gradient fadeout */}
-                            <div className="absolute inset-x-0 bottom-0 h-[60%] bg-gradient-to-t from-black from-40% via-black/80 via-60% via-black/50 via-75% via-black/20 via-60% via-black/20 to-transparent" />
+                            <div className="absolute inset-x-0 bottom-0 h-[60%] bg-gradient-to-t from-black from-20% via-black/60 via-20% via-black/50 via-20% via-black/20 via-30% via-black/20 to-transparent" />
                           </div>
                         </div>
                       </Card>

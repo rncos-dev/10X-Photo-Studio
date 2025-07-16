@@ -20,34 +20,34 @@ interface CarouselData {
 const carouselData: CarouselData[] = [
   {
     image: '/inputMessage_inputMessage_Imagine_a_vibrant_and_eye-catching_scene_in_the_heart_o_epEdilf.png',
-    title: 'Artistic Innovation',
-    description: 'Transform your ideas into stunning artwork with our state-of-the-art AI image generation. From abstract concepts to detailed scenes, bring your imagination to life.',
+    title: 'Low-Cost, High-Volume Creative Generation',
+    description: 'Produce a vast quantity of high-quality creative assets efficiently, maximizing ROI without breaking your budget.',
   },
   {
     image: '/cup_tsunami.png',
-    title: 'Creative Freedom',
-    description: 'No artistic skills required. Our AI understands natural language, allowing you to describe your vision in words and watch as it becomes reality.',
+    title: 'Fast Turnaround Time',
+    description: 'Receive content swiftly, often within 24–48 hours, ensuring you meet tight deadlines and respond quickly to market trends.',
   },
   {
     image: '/Imagine_a_wide-angle_shot_of_a_bustling_Mumbai_street_with_the_iconic_Gateway_of__qB6qtYK.png',
-    title: 'Endless Possibilities',
-    description: 'Generate unique images for any purpose - from digital art and marketing materials to concept designs and storyboard illustrations.',
+    title: 'Consistent Brand Alignment',
+    description: 'Every piece of content perfectly matches your brand’s voice, visual identity, and messaging for cohesive communication.',
   },
   {
     image: '/Imagine_an_enchanting_animated_close-up_of_Lord_Ganesha_the_beloved_deity_of_wisd_jPIpBUh.png',
-    title: 'Professional Quality',
-    description: 'Create high-resolution, professional-grade images that are ready to use in your projects, presentations, or creative endeavors.',
+    title: 'Scalability for Growing Content Needs',
+    description: 'Effortlessly expand your content output as your business grows, with flexible solutions adapting to increasing demands seamlessly.',
   },
-  {
-    image: '/oneclickposting2.gif',
-    title: 'One Click Posting!',
-    description: 'All social media pages, One click away',
-  },
-  {
-    image: '/Create_an_image_from_a_close-up_angle_to_showcase_a_gourmet_baklava._Focus_on_the_IXia97k.png',
-    title: 'Rapid Generation',
-    description: 'Get instant results with our lightning-fast AI. Generate multiple variations and iterations of your concept in seconds.',
-  },
+  // {
+  //   image: '/oneclickposting2.gif',
+  //   title: 'One Click Posting!',
+  //   description: 'All social media pages, One click away',
+  // },
+  // {
+  //   image: '/Create_an_image_from_a_close-up_angle_to_showcase_a_gourmet_baklava._Focus_on_the_IXia97k.png',
+  //   title: 'Rapid Generation',
+  //   description: 'Get instant results with our lightning-fast AI. Generate multiple variations and iterations of your concept in seconds.',
+  // },
   // Dummy card for smooth transition at the end
   {
     image: '',

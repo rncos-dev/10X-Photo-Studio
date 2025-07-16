@@ -22,7 +22,7 @@ export default function Navbar() {
             className="text-2xl font-bold bg-gradient-to-r from-red-400 to-yellow-600 bg-clip-text text-transparent"
           >
             <Image src="/icon.png" alt="Logo" className="inline-block" width={60} height={60} style={{marginBottom: '5px'}}/>
-            10XMarTech
+            10X Photo Studio
           </motion.div>
           
           <div className="hidden md:flex items-center space-x-8 mr-32">
