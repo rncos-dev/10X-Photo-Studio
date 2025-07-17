@@ -18,7 +18,7 @@ const collageImages = [
   { src: '/blended_with_mask_7.png', alt: 'AI Generated Art 7', ratio: '1/1' },
   { src: '/coconut2.jpg', alt: 'AI Generated Art 1', ratio: '16/9' },
   { src: '/lavender2.jpg', alt: 'AI Generated Art 2', ratio: '1/1' },
-  { src: '/blended_with_mask_1 (1).png', alt: 'AI Generated Art 1', ratio: '1/1' },
+  { src: '/blended_with_mask_9.png', alt: 'AI Generated Art 6', ratio: '1/1' },
   { src: '/blended_with_mask_8.png', alt: 'AI Generated Art 2', ratio: '1/1' },
   { src: '/blended_with_mask_3.png', alt: 'AI Generated Art 3', ratio: '4/4' },
   { src: '/blended_with_mask_5.png', alt: 'AI Generated Art 5', ratio: '1/1' },
