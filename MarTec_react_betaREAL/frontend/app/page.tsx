@@ -159,7 +159,7 @@ export default function HomePage() {
               className="text-xl md:text-2xl text-gray-300 mb-12 max-w-2xl mx-auto"
             >
               <TypingText 
-                text="Transform your imagination into stunning visuals with our advanced AI image generation platform" 
+                text="Transform your imagination into stunning visuals with our advanced AI Photo Studio platform" 
                 className="block"
                 delay={2000}
               />
