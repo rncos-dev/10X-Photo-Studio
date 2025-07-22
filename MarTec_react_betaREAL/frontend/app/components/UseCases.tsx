@@ -6,7 +6,7 @@ import Image from 'next/image'
 import { Tabs, TabsList, TabsTrigger, TabsContent } from '@/components/ui/tabs'
 import { Card } from '@/components/ui/card'
 import { cn } from '@/lib/utils'
-// import { Palette } from 'lucide-react'
+import { Palette } from 'lucide-react'
 
 const useCases = [
   {
