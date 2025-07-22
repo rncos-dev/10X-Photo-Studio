@@ -182,7 +182,7 @@ export default function HomePage() {
                   className="absolute right-2 bg-gradient-to-r from-red-600 to-yellow-600 hover:from-yellow-600 hover:to-red-600 rounded-full px-6"
                   onClick={() => {
                     if (typeof window !== 'undefined') {
-                      window.location.href = 'https://martechdev.onrender.com/';
+                      window.location.href = 'https://one0xphoto-studio.onrender.com/';
                     }
                   }}
                 >
