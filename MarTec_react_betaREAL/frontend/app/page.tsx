@@ -315,7 +315,7 @@ export default function HomePage() {
                 <Button size="lg" className="bg-white text-lg text-purple-900 hover:bg-gray-100"
                   onClick={() => {
                     if (typeof window !== 'undefined') {
-                      window.location.href = 'https://martechdev.onrender.com/';
+                      window.location.href = 'https://one0xphoto-studio.onrender.com/';
                     }
                   }}
                 >
