@@ -28,6 +28,13 @@ const collageImages = [
   { src: '/lemons.png', alt: 'AI Generated Art 8', ratio: '768/960' },
   { src: '/mulitiplearch.png', alt: 'AI Generated Art 9', ratio: '10/15' },
   { src: '/multiplerain.png', alt: 'AI Generated Art 10', ratio: '896/1152' },
+  { src: '/bubbles.png', alt: 'AI Generated Art 2', ratio: '1/1' },
+  { src: '/bubbles2.png', alt: 'AI Generated Art 2', ratio: '1/1' },
+  { src: '/cloth.png', alt: 'AI Generated Art 2', ratio: '1/1' },
+  { src: '/flaxseed.png', alt: 'AI Generated Art 2', ratio: '1/1' },
+  { src: '/florarose.png', alt: 'AI Generated Art 2', ratio: '1/1' },
+  { src: '/lavender.png', alt: 'AI Generated Art 2', ratio: '1/1' },
+  { src: '/mist.png', alt: 'AI Generated Art 2', ratio: '1/1' },
   { src: '/sand.png', alt: 'AI Generated Art 2', ratio: '1/1' },
 ]
 
