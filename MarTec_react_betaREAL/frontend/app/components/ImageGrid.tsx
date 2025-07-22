@@ -31,7 +31,7 @@ const collageImages = [
   { src: '/bubbles.png', alt: 'AI Generated Art 2', ratio: '1/1' },
   { src: '/bubbles2.png', alt: 'AI Generated Art 2', ratio: '1/1' },
   { src: '/cloth.png', alt: 'AI Generated Art 2', ratio: '1/1' },
-  { src: '/flaxseed.png', alt: 'AI Generated Art 2', ratio: '1/1' },
+  { src: '/123.webp', alt: 'AI Generated Art 2', ratio: '1/1' },
   { src: '/florarose.png', alt: 'AI Generated Art 2', ratio: '1/1' },
   { src: '/lavender.png', alt: 'AI Generated Art 2', ratio: '1/1' },
   { src: '/mist.png', alt: 'AI Generated Art 2', ratio: '1/1' },
