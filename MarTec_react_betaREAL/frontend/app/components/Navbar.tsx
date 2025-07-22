@@ -49,7 +49,7 @@ export default function Navbar() {
               <Button 
                 variant="ghost" 
                 className="text-gray-300 hover:text-black"
-                onClick={() => window.location.href = 'https://martechdev.onrender.com'}
+                onClick={() => window.location.href = 'https://one0xphoto-studio.onrender.com'}
               >
                 Sign In
               </Button>
