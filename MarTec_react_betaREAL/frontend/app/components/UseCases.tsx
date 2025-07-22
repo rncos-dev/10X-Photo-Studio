@@ -11,71 +11,71 @@ import { cn } from '@/lib/utils'
 const useCases = [
   {
     id: 'image-generation',
-    title: 'AI - Powered Creatives',
+    title: 'Fashion',
     description: 'Create stunning visuals from text descriptions',
     image: '/1.png'
   },
   {
     id: 'style-transfer',
-    title: 'Cusotmization & Brand Alignment',
+    title: 'Marketing',
     description: 'Apply artistic styles to your existing images',
     image: '/2.png'
   },
   {
     id: 'layout-design',
-    title: 'Platform Optimized Images',
+    title: 'Advertisement',
     description: 'Generate complete layouts and compositions',
     image: '/4.png'
   },
   {
     id: 'product-photography',
-    title: 'Dedicated Account Support',
+    title: 'Product Photography',
     description: 'Create unique characters and avatars',
     image: '/6.png'
   },
-  // {
-  //   id: 'pattern-creation',
-  //   title: 'Architecture',
-  //   description: 'Generate seamless patterns and textures',
-  //   image: '/7.png'
-  // },
-  // {
-  //   id: 'book-illustrations',
-  //   title: 'Interior Design',
-  //   description: 'Create captivating book covers and illustrations',
-  //   image: '/9.png'
-  // },
-  // {
-  //   id: 'fashion-design',
-  //   title: 'Graphic Design',
-  //   description: 'Design unique apparel and accessories',
-  //   image: '/7.png'
-  // },
-  // {
-  //   id: 'art-creation',
-  //   icon: Palette,
-  //   title: 'Concept Art',
-  //   description: 'Generate original artwork in various styles',
-  //   image: '/8.png',
-  // },
-  // {
-  //   id: 'game-asset',
-  //   title: 'Game Asset',
-  //   description: 'Design unique apparel and accessories',
-  //   image: '/7.png'
-  // },
-  // {
-  //   id: 'character-design',
-  //   title: 'Character Design',
-  //   description: 'Design unique apparel and accessories',
-  //   image: '/8.png'
-  // },
-  // {
-  //   id: 'inspiration',
-  //   title: 'Inspiration',
-  //   description: 'Design unique apparel and accessories',
-  //   image: '/10.png'
-  // }
+  {
+    id: 'pattern-creation',
+    title: 'Architecture',
+    description: 'Generate seamless patterns and textures',
+    image: '/7.png'
+  },
+  {
+    id: 'book-illustrations',
+    title: 'Interior Design',
+    description: 'Create captivating book covers and illustrations',
+    image: '/9.png'
+  },
+  {
+    id: 'fashion-design',
+    title: 'Graphic Design',
+    description: 'Design unique apparel and accessories',
+    image: '/7.png'
+  },
+  {
+    id: 'art-creation',
+    icon: Palette,
+    title: 'Concept Art',
+    description: 'Generate original artwork in various styles',
+    image: '/8.png',
+  },
+  {
+    id: 'game-asset',
+    title: 'Game Asset',
+    description: 'Design unique apparel and accessories',
+    image: '/7.png'
+  },
+  {
+    id: 'character-design',
+    title: 'Character Design',
+    description: 'Design unique apparel and accessories',
+    image: '/8.png'
+  },
+  {
+    id: 'inspiration',
+    title: 'Inspiration',
+    description: 'Design unique apparel and accessories',
+    image: '/10.png'
+  }
 ]
 
 export default function UseCases() {
