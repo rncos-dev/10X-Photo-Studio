@@ -159,7 +159,7 @@ export default function HomePage() {
               className="text-xl md:text-2xl text-gray-300 mb-12 max-w-2xl mx-auto"
             >
               <TypingText 
-                text="Take photos like a pro with our advanced AI Photo Studio platform" 
+                text="Take photos like a pro with our advanced AI Virtual Photoshoot Platform" 
                 className="block"
                 delay={2000}
               />
